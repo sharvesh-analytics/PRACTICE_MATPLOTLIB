@@ -21,6 +21,4 @@ This project is a basic practice of python library using Matplotlib in Jupyter N
 - Learned how to visualize data clearly  
 
 ---
-
-## ▶️ How to Run
-1. Install libraries:
+#. SHARVESH PANDEY
